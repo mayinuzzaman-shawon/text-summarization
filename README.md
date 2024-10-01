@@ -8,6 +8,7 @@ This project involves fine-tuning pre-trained language model from Hugging Face t
 
 **Title: Amazon Food Review Dataset**
 Source:https://www.kaggle.com/datasets/snap/amazon-fine-food-reviews?select=Reviews.csv
+
 Details:
   - Contains roughly 500,000 food reviews from Amazon over a 10-year period
   - Features include: Product IDs, User IDs, plain text reviews, short review summaries, review ratings (1-5), and review helpfulness metrics
