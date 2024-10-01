@@ -37,5 +37,5 @@ Details:
    - Open Jupyter Notebook
    - Download Dataset
    - Install required packages
-   - Run code 
+   - Run the code 
    
